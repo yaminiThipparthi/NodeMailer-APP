@@ -8,8 +8,8 @@ const sendEmail = async(to, messageContent) => {
             port: 587,
             secure: false,
             auth:{
-                user: "yaminibanni21@gmail.com",
-                pass: "heef qlvk wmll zsdn",
+                user: " ",
+                pass: " ",
             }
           })
           //message obj
